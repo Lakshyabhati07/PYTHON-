@@ -1,0 +1,5 @@
+f=open("C:\\Users\\242847\\Desktop\\python paper\\lax.txt","rt")
+f.write("Hii IM lakshya plz help me\n and he others")
+print(f.read(100)) 
+f.write("poioppp")
+print("Done")
